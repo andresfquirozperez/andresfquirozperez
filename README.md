@@ -7,7 +7,7 @@
     Desarrollador Full-Stack (Java/React) | Integración de IA & Backend Architecture
   </p>
   <!-- Banner horizontal de VISION -->
-  <img src="Sin título.png" alt="VISION - Estudio de innovación y construcción digital" width="600" style="margin: 20px 0;" />
+  <img src="image-github-vision.png" alt="VISION - Estudio de innovación y construcción digital" width="600" style="margin: 20px 0;" />
 
   <br />
 
