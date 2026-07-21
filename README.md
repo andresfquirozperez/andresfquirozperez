@@ -1,10 +1,20 @@
-# ¡Hola! Soy Andrés Quiroz 👋
+<div align="center">
+  
+  <h1>Hola, soy VISION</h1>
+  
+  <h2>Andrés Felipe Quiroz Pérez</h2>
+  <p>
+    <strong>Desarrollador Full-Stack (Java/React) | Integración de IA & Backend Architecture</strong>
+  </p>
+  <!-- Banner horizontal de VISION -->
+  <img src="Sin título.png" alt="VISION - Estudio de innovación y construcción digital" width="600" style="margin: 20px 0;" />
 
-**Desarrollador Full-Stack (Java/React) | Integración de IA & Backend Architecture**
+  <br />
 
-Soy un desarrollador orientado al pensamiento de negocio, especializado en la creación de aplicaciones modulares y escalables. Combino el desarrollo backend tradicional con implementaciones avanzadas de Inteligencia Artificial (Agentes Autónomos, RAG, Búsqueda Semántica) para resolver problemas reales.
+  Soy un desarrollador orientado al pensamiento de negocio, especializado en la creación de aplicaciones modulares y escalables. Combino el desarrollo backend tradicional con implementaciones avanzadas de Inteligencia       Artificial (Agentes Autónomos, RAG, Búsqueda Semántica) para resolver problemas reales.
 
-Actualmente soy estudiante destacado (1er puesto de cohorte por 4 semestres) en la Universidad del Valle y ponente en investigación tecnológica (RREDSI).
+  Actualmente soy estudiante destacado (1er puesto de cohorte por 4 semestres) en la Universidad del Valle y ponente en investigación tecnológica (RREDSI).
+</div>
 
 ### 🚀 Stack Principal y Tecnologías
 
@@ -22,8 +32,8 @@ Plataforma full-stack de orquestación asistida por IA.
 
 ### 📈 Logros Relevantes
 - 🥇 **Mérito Académico:** 1er Puesto y Mejor Promedio de Cohorte (4 semestres consecutivos, Univ. del Valle).
-- 🎤 **Investigación:** Ponente en el XV Encuentro RREDSI por el desarrollo de la plataforma OrchestrAI (Calificación: 93.5/100).
-- 💼 **Experiencia:** +2 años en entornos de teletrabajo colaborando en diseño UI/UX y ejecución autónoma de entregables.
+- 🎤 **Investigación:** Ponente en el XV Encuentro RREDSI por el desarrollo de la plataforma OrchestrAI (Calificación: 93.5/100 - Ranking #26).
+- 💼 **Experiencia:** +2 años en entornos de teletrabajo colaborando como analista de diseño y ejecución autónoma de entregables.
 
 ---
-📫 **¿Conectamos?** [Aquí tu enlace a LinkedIn] | ✉️ [Aquí tu correo]
+📫 **¿Conectamos?**  andresfqperez@gmail.com
