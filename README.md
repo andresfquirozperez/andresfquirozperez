@@ -1,10 +1,10 @@
 <div align="center">
   
   <h1>Hola, soy VISION</h1>
-  
-  <h2>Andrés Felipe Quiroz Pérez</h2>
+
   <p>
-    <strong>Desarrollador Full-Stack (Java/React) | Integración de IA & Backend Architecture</strong>
+    <strong>Andrés Felipe Quiroz Pérez </strong> <br>
+    Desarrollador Full-Stack (Java/React) | Integración de IA & Backend Architecture
   </p>
   <!-- Banner horizontal de VISION -->
   <img src="Sin título.png" alt="VISION - Estudio de innovación y construcción digital" width="600" style="margin: 20px 0;" />
